@@ -1,0 +1,2 @@
+authorship-wordpress-plugin
+===========================
